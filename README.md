@@ -42,10 +42,4 @@ Open `Analysis.ipynb` in Jupyter to download data via yfinance, build features, 
 - Example tickers cover Tech, Auto, Bank, Pharma, and Defense sectors.
 - Large datasets may require more memory/compute. Adjust Spark config as needed.
 
-## GitHub
-Typical workflow:
-```bash
-git init
-git add .
-git commit -m "Initial commit: Streamlit app, analysis notebook, data"
-```
+
